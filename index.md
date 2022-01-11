@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Anwarul's page
 
 You can use the [editor on GitHub](https://github.com/anwarulkaium/anwarulkaium.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I am a computer scientist and an educator. I have more than 7 years of teaching experience at the higher education level. I have completed my Doctor of Philosophy (PhD) focused on dynamic graph partitioning algorithms and distributed computing from the University of Tasmania.
+
+I have an interest in the following cutting-edge research topics:
+
+Deep Learning on Graph Streams, Dynamic Graph Embedding, Dynamic Graph Partitioning, Graph theory, Big Data Analytics, Distributed Computing, Algorithms.
 
 ### Markdown
 
